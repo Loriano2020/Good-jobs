@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{textAlign: 'center', padding: '50px'}}>
+      <h1>Olá, mundo!</h1>
+      <p>Meu projeto Next.js já está funcionando 🚀</p>
+    </div>
+  );
+}
